@@ -1,0 +1,19 @@
+{
+  "name": "gb-ee-boostrap-sass-official",
+  "version": "0.1.0",
+  "authors": [
+    "Jon Haarstad <jon.haarstad@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "3.3.5",
+    "jquery": "2.1.4"
+  }
+}
